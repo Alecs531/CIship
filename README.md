@@ -6,7 +6,7 @@ Dedicated work of having the unity towards previously encapsulated by Aleksandar
                 /\
               /    \
                 |      
-        _ ______|_______ _
-        \_______________/
+        _ ______|_______  _
+         \_______________/
 
 
