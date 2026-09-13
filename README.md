@@ -55,3 +55,5 @@ From the player party one is of ability to check the number of players that are 
 # Worming up to the relm of monitors
 
 In furthering of the access to the solution the siplicity has it's horizon in doubt of strucurality. Further faded swaying sum of surplassing developements has risen to the extentivity in cut. this means the cut is surely ever more so submmitive to submition in the relm of descriptive atonement.
+
+In rerquirements of rerprersenting inchicality to the fulles, one might not persume resumption without the broadness that is behind coputer monitor. To the inclusion on the vide far spectrum that are inches. Couldn't be attoned by nothing but at understanding of inches on refresh rartes.
