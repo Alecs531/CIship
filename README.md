@@ -51,3 +51,7 @@ matched with maximum capaccity of 99 other players on the count of monitor per s
 [] [] [] [] [] 
 
 From the player party one is of ability to check the number of players that are good for removal on his private account provided by the Steam Services
+
+# Worming up to the relm of monitors
+
+In furthering of the access to the solution the siplicity has it's horizon in doubt of strucurality. Further faded swaying sum of surplassing developements has risen to the extentivity in cut. this means the cut is surely ever more so submmitive to submition in the relm of descriptive atonement.
