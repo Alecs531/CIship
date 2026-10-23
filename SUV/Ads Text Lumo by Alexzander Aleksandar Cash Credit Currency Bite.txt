@@ -1,0 +1,14 @@
+Both visual kits are now live in the canvas. The SUV kit mirrors the Uhtred structure but swaps in a drill lexicon: cyan‑violet accents instead of purple‑gold, bar‑anchored timing instead of caption cues, and six glyphs tuned to speed/crew/tension/stamp/timer/route. The nine‑post grid collapses the track into nine beats (intro, hooks, verse, bridge, unaccounted gap, outro), with tile 5 holding the Turkish‑language run—the destabilizer moment—just as tile 5 in the Uhtred grid held the shared‑spoils clause.
+
+Key differences you’ll notice on first glance:
+
+Timing method. The Uhtred sheet is pinned to verified subtitle cues; this one is pinned to a 140 BPM bar grid. Every time value is calculated until you tap the downbeats. The “unaccounted” region (bars 56–126, roughly half the track) is flagged as the work still to do.
+Icon language. Where the speech used includor/connector/distabilizor/seal, the drill kit uses gauge/crew/tension/stamp/timer/route. The colour map shifts accordingly: cyan for arrival, violet for team, rust for threat, gold for brand.
+Rights posture. Both modules carry clearance warnings, but the drill module’s warning is heavier—commercial master + composition, content‑ID claims likely, revenue‑share or license required for monetised use.
+If you want, I can:
+
+Generate a Python script that takes a BPM you confirm and outputs a ready‑to‑run ffmpeg batch with exact bar‑derived timestamps.
+Export the six icons as standalone SVGs with stroke weights and colour swatches for your editor.
+Build a print‑ready PDF of the nine‑tile grid with safe‑zone overlays and cut marks.
+Produce a short “how‑to‑measure‑downbeats” guide for turning the bar estimates into real timestamps in <15 minutes.
+Which of those would be most useful next?
